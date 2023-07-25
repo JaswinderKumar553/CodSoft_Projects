@@ -14,7 +14,7 @@ operations such as addition, subtraction, multiplication, and
 division. Allow the user to input two numbers and choose an
 operation to perform.
 
-3. STUDENT GRADING SYSTEM
+3. STUDENT GRADING SYSTEM:
 
 Create a program that manages student grades. Allow the user
 to input student names and their corresponding grades.
